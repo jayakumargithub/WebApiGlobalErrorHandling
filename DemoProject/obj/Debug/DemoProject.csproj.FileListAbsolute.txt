@@ -1,0 +1,85 @@
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\DemoProject.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\DemoProject.pdb
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\log4net.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\Newtonsoft.Json.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Net.Http.Formatting.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Helpers.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Http.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Http.WebHost.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Mvc.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Razor.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.WebPages.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.WebPages.Razor.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\log4net.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\Newtonsoft.Json.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Net.Http.Formatting.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Http.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Http.WebHost.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Helpers.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Mvc.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.Razor.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.WebPages.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\bin\System.Web.WebPages.Razor.xml
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.dll
+c:\users\dochiana\documents\visual studio 2012\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\DemoProject.dll.config
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\DemoProject.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\DemoProject.pdb
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\log4net.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\Newtonsoft.Json.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Net.Http.Formatting.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Helpers.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.WebHost.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Mvc.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Razor.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Deployment.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Razor.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\log4net.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\Newtonsoft.Json.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Net.Http.Formatting.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.WebHost.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Helpers.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Mvc.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.Razor.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Deployment.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Razor.xml
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.dll
+D:\Work\GitHub\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\DemoProject.dll.config
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\DemoProject.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\DemoProject.pdb
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\log4net.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\Newtonsoft.Json.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Net.Http.Formatting.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Helpers.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.WebHost.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Mvc.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Razor.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Razor.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\log4net.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\Newtonsoft.Json.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Net.Http.Formatting.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Http.WebHost.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Helpers.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Mvc.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.Razor.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\bin\System.Web.WebPages.Razor.xml
+C:\Projects\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+C:\Projects\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.dll
+C:\Projects\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
